@@ -25,6 +25,7 @@ rate-limiting               | 910
 response-ratelimiting       | 900
 request-transformer         | 801
 response-transformer        | 800
+ai-proxy                    | 770
 aws-lambda                  | 750
 azure-functions             | 749
 upstream-timeout            | 400
@@ -99,6 +100,7 @@ request-transformer         | 801
 response-transformer-advanced | 800
 response-transformer        | 800
 route-transformer-advanced  | 780
+ai-proxy                    | 770
 kafka-upstream              | 751
 aws-lambda                  | 750
 azure-functions             | 749

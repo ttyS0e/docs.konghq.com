@@ -1,0 +1,20 @@
+name: AI Proxy
+search_aliases:
+  - ai-proxy
+dbless_compatible: 'yes'
+dbless_explanation: |
+  Configures Kong, and transforms consumer requests and responses for multiple AI and Large Language Model providers.
+
+  Call multiple different AI models with the same consistent input and output formats.
+free: true
+enterprise: true
+paid: true
+konnect: true
+network_config_opts: All
+notes: --
+categories:
+  - transformations
+  - serverless
+publisher: Kong Inc.
+desc: Proxy AI and LLM models via Kong.
+type: plugin
